@@ -1,3 +1,30 @@
 <resources>
-    <string name="app_name">Primeros_auxilios</string>
+    <string name="app_name">PRIMEROS AUXILIOS</string>
+    <string name="title_activity_welcome">Pantalla de Inicio</string>
+    <string name="siguiente">SIGIENTE</string>
+    <string name="menu">MENÚ</string>
+    <string name="irAlMenu">IR AL MENÚ</string>
+
+    <string name="slide_1_title">BIENVENIDO</string>
+    <string name="slide_1_desc">Primeros auxilios</string>
+
+
+
+    <string name="slide_2_title">Hola, yo seré tu presentadora</string>
+    <string name="slide_2_desc">En esta aplicación te enseñaremos lo basico de los
+    primeros auxilios</string>
+
+
+    <string name="slide_3_title">¿Qué son los primeros auxilios?</string>
+    <string name="slide_3_desc">Pero....¿que son los primeros auxilios?, ¿en donde se utilizan?,
+    ¿por qué es tan importante saber sobre ello?</string>
+
+
+    <string name="slide_4_desc">Los primeros auxilios son medidas terapeuticas que se aplican
+    en situaciones de emergencia, en los cuales se trata a una victima ya sea de un
+    accidente o una enfermedad repentina.</string>
+
+    <string name="play_again_desc">Para ver de nuevo el deslizador de
+        bienvenida, vaya a settings -> apps -> welcome slider -> cleardata</string>
 </resources>
+
